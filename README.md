@@ -25,3 +25,6 @@ The `txt` file is an abstract from wikipedia, while the `out` file is the expect
 
 Allow the extra flag `-ngram X` where the user can specify how many n-gram to use to count, instead of single words.
 
+## Submit
+
+make a fork of this repo, and share it with us. Alternatively send us a zip/tgz file.
