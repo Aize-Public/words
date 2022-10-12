@@ -27,4 +27,4 @@ Allow the extra flag `-ngram X` where the user can specify how many n-gram to us
 
 ## Submit
 
-make a fork of this repo, and share it with us. Alternatively send us a zip/tgz file.
+Import this repo into a new one (https://github.com/new/import), and share it with us. Alternatively send us a zip/tgz file.
